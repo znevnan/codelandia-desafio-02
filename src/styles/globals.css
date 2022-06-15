@@ -1,0 +1,29 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700');
+
+/* Variables */
+:root {
+  --bgSite: #f6f6f6;
+  --bgBanner: #181818;
+  --bgCard: #ebe9ea;
+  
+  --bannerText: #f9f9f9;
+  --white: #fff;
+
+  --title: #181818;
+  --text: #474747;
+}
+
+body {
+  background-color: var(--bgSite);
+  font-family: "Montserrat";
+}
+
+#root {
+  position: relative;
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}

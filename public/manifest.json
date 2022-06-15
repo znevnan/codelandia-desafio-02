@@ -1,0 +1,25 @@
+{
+  "name": "Jordan Shoes Web site",
+  "icons": [
+    {
+      "src": "favicon-16x16.ico",
+      "sizes": "16x16",
+      "type": "image\/png"
+    },
+    {
+      "src": "favicon-32x32.ico",
+      "sizes": "32x32",
+      "type": "image\/png"
+    },
+    {
+      "src": "favicon-64x64.ico",
+      "sizes": "64x64",
+      "type": "image\/png"
+    },
+    {
+      "src": "favicon-120x120.ico",
+      "sizes": "120x120",
+      "type": "image\/png"
+    }
+  ]
+}
