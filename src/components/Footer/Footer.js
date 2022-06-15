@@ -3,7 +3,7 @@ import { Wrapper, Copyright } from "./Footer.style";
 const Footer = () => {
   return (
     <Wrapper>
-      <Copyright>Todos os direitos reservados.</Copyright>
+      <Copyright>All rights reserved.</Copyright>
     </Wrapper>
   );
 };
