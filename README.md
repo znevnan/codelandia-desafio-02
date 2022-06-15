@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+<h2 align="center">Jordan Shoes</h2>
+<p align="center">
+  <a href="#-Setup">Setup</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-Layout">Layout</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-License">License</a>
+</p>
+<p align="center">This project refers to the second challenge launched in <a href="https://discord.gg/wNCWTVuxyz">@Codelândia</a>'s discord server.</p>
+<p align="center"><a href="https://codelandia-desafio-02.netlify.app/">View Demo</a></p>
+<p align="center">
+  <img width="786" alt="Screenshot 2022-06-16 at 00 50 29" src="https://user-images.githubusercontent.com/88731499/173960784-e91abcfd-e157-419f-b081-a1661813dc34.png">
+</p>
+</br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 &nbsp;&nbsp;Setup
 
-## Available Scripts
+**1. Clone the repo:**
 
-In the project directory, you can run:
+&nbsp;&nbsp;&nbsp;&nbsp;`git clone https://github.com/amarianasilva/codelandia-desafio-02.git`
 
-### `yarn start`
+**2. Change into the project dir:**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+&nbsp;&nbsp;&nbsp;&nbsp;`cd codelandia-desafio-02/`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**3. Install the project dependencies:**
 
-### `yarn test`
+&nbsp;&nbsp;&nbsp;&nbsp;`yarn install`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**4. Start the server:**
 
-### `yarn build`
+&nbsp;&nbsp;&nbsp;&nbsp;`yarn start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The server is now running at http://localhost:3000.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🖥 &nbsp;&nbsp;Technologies
 
-### `yarn eject`
+For the development of this project the main technologies used were:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💅 &nbsp;&nbsp;Layout
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The project's reference layout can be inspected in [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1883%3A2).
 
-## Learn More
+</br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝 &nbsp;&nbsp;License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is licensed under the terms of the MIT license.
 
-### Code Splitting
+</br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p><a href="#Jordan Shoes">⬆️</a>&nbsp;&nbsp;Back to top!</p>
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center"><a href="https://github.com/amarianasilva">amarianasilva</a>&nbsp;&nbsp;•&nbsp;&nbsp;2022</p>
