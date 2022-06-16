@@ -13,7 +13,7 @@ export const Title = styled.p`
   text-align: center;
   font-size: 14px;
   font-weight: 500;
-  color: var(--text);
+  color: var(--bgCard);
   transition: 1s;
   max-width: 200px;
   bottom: 8%;

@@ -7,16 +7,16 @@ import {
 } from "./Header.style";
 
 const DescriptionText = [
-  "O tênis Jordan é fruto de uma velha e forte parceria entre a Nike e o jogador Michael Jordan.",
+  "The Jordan Shoes are the result of an old and strong partnership between Nike and the player Michael Jordan.",
 ];
 
 const Header = () => {
   return (
     <header>
-      <Banner>Ganhe R$ 10,00 de desconto no frete</Banner>
+      <Banner>Get a $10 discount on shipping</Banner>
       <Title>Jordan Shoes</Title>
       <Container>
-        <Subtitle>A melhor loja de Jordan</Subtitle>
+        <Subtitle>The best Jordan store</Subtitle>
         <Description
           strings={DescriptionText}
           typeSpeed={30}

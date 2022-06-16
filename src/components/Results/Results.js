@@ -48,9 +48,9 @@ const Results = () => {
   return (
     <main>
       <Container>
-        <Title>Destaques</Title>
+        <Title>Highlights</Title>
         <Description>
-          Frete grátis e chinelo de brinde é aqui, aproveite por tempo limitado.{" "}
+          Free shipping and an additional pair as gift, for a limited time only.
         </Description>
       </Container>
       <Content>
